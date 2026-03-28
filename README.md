@@ -1,11 +1,13 @@
-# neural-net
+# Neural Net
 
-Minimal neural network library (forward/backward, SGD, layers)
+Neural network from scratch (feedforward + backprop).
 
 ## Usage
 
 ```bash
-python3 neural_net.py --help
+python3 neural_net.py
 ```
 
-Zero dependencies. Python 3.8+.
+## License
+
+MIT
