@@ -1,6 +1,11 @@
 # neural-net
-Minimal neural network with backpropagation. Zero dependencies.
+
+Minimal neural network library (forward/backward, SGD, layers)
+
 ## Usage
+
 ```bash
-python3 neural_net.py --xor
+python3 neural_net.py --help
 ```
+
+Zero dependencies. Python 3.8+.
