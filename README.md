@@ -1,11 +1,11 @@
-# Neural Net
+# Neural Network from Scratch
 
-Neural network from scratch (feedforward + backprop).
+Neural Network from Scratch — zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 neural_net.py
+python3 neural_net.py --help
 ```
 
 ## License
